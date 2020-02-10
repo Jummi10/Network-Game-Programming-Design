@@ -1,0 +1,22 @@
+﻿  SpriteRandomMaster.cpp
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(340): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(346): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(352): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(358): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(401): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(435): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(490): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(495): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(505): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnummaster\spriterandommaster.cpp(509): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: 'sprintf' 선언을 참조하십시오.
+  SpriteRandomMaster.vcxproj -> C:\Users\hp\Desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-RandomNumMaster\Debug\SpriteRandomMaster.exe

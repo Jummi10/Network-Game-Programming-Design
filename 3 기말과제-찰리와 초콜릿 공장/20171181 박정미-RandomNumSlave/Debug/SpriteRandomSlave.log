@@ -1,0 +1,4 @@
+﻿  SpriteRandomSlave.cpp
+c:\users\hp\desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-randomnumslave\spriterandomslave.cpp(296): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(2261): note: 'sscanf' 선언을 참조하십시오.
+  SpriteRandomSlave.vcxproj -> C:\Users\hp\Desktop\2019-1\네트워크게임프로그래밍설계\기말과제-찰리와 초콜릿 공장\20171181 박정미-RandomNumSlave\Debug\SpriteRandomSlave.exe
